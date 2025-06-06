@@ -16,12 +16,12 @@ This project fetches financial news from [Moneycontrol](https://www.moneycontrol
 
 ## 🧱 Project Structure
 
-.
-├── main.py # Main entry to fetch articles
-├── Para_Processing.py # Gemini + FAISS Semantic Search
-├── DB_CRUD.py # PostgreSQL CRUD operations
-├── requirements.txt # Required libraries
-└── README.md # Project documentation
+.  
+├── main.py # Main entry to fetch articles  
+├── Para_Processing.py # Gemini + FAISS Semantic Search  
+├── DB_CRUD.py # PostgreSQL CRUD operations  
+├── requirements.txt # Required libraries  
+└── README.md # Project documentation  
 
 
 ---
@@ -49,6 +49,7 @@ cd moneycontrol-news-scraper
 Install Dependencies
 
 pip install -r requirements.txt
+```
 
 💬 Example Output
 
