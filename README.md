@@ -45,9 +45,9 @@ This project fetches financial news from [Moneycontrol](https://www.moneycontrol
 ```bash
 git clone https://github.com/yourusername/moneycontrol-news-scraper.git
 cd moneycontrol-news-scraper
-
-Install Dependencies
-
+```
+### Install Dependencies
+```bash
 pip install -r requirements.txt
 ```
 
